@@ -1,0 +1,5 @@
+# abapGit / SAP ABAP project
+*.bak
+*.tmp
+.DS_Store
+Thumbs.db
