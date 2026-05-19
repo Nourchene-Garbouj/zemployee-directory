@@ -50,4 +50,4 @@ src/
 - Version controlling ABAP with abapGit
 
 ---
-*Built as a learning project to demonstrate SAP ABAP fundamentals.*
+*Built by Nourchene Garbouj as a learning project to demonstrate SAP ABAP fundamentals.*
